@@ -1,6 +1,6 @@
 
 # 🤖 About Me:
-I am interested in Mathematics , Physics , AI 
+**`I am interested in Mathematics , Physics , AI`** 
 
 
 ## 🌐 Socials:
