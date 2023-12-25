@@ -2,6 +2,8 @@
 # 🤖 About Me:
 **`I am interested in Mathematics , Physics and AI`** 
 
+I'm really into computer science, even though I haven't started university yet. I enjoy taking what I learn and using it in real projects. Doing hands-on work makes learning more fun for me, allowing me to explore and build on what I know
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___muhsin______) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_Muhsin____) 
