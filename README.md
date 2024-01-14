@@ -1,6 +1,6 @@
 
 # 🤖 About Me:
-**`I am interested in Mathematics , Physics and AI`** 
+**`I am interested in Mathematics and AI`** 
 
 I'm really into computer science, even though I haven't started university yet. I enjoy taking what I learn and using it in real projects. Doing hands-on work makes learning more fun for me, allowing me to explore and build on what I know
 
